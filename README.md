@@ -63,6 +63,11 @@ Profit => Profit/Loss incurred.
 - Data Extraction
 - Data Modelling
 
+- ### Page 1
+- ![Image](https://github.com/user-attachments/assets/1d90be15-f9cb-4e59-ab6e-7b7115195ceb)
+
+- ### Page 2
+
 - 
 
 
