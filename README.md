@@ -67,6 +67,7 @@ Profit => Profit/Loss incurred.
 - ![Image](https://github.com/user-attachments/assets/1d90be15-f9cb-4e59-ab6e-7b7115195ceb)
 
 - ### Page 2
+- ![Image](https://github.com/user-attachments/assets/cf578d17-6a31-422b-953c-a62b6ebe6e9c)
 
 - 
 
