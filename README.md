@@ -54,3 +54,18 @@ Profit => Profit/Loss incurred.
 - What states has the highest sales?
 - What region has the greatest profit?
 
+- ### Skills Demonstrated
+- DAx
+- Slicers
+- Filters
+- Measures
+- Data Transformation
+- Data Extraction
+- Data Modelling
+
+- 
+
+
+
+
+
