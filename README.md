@@ -72,12 +72,8 @@ Profit => Profit/Loss incurred.
 - ## Summary
 - Total Sales trended down, resulting in a 67.32% decrease between 2014 and 2017.
 - ﻿At 34,739.25, California had the highest Sum of Sales and was 122,221.30% higher than New Mexico, which had the lowest Sum of Sales at 28.40.
-
+- California accounted for 17.10% of Sum of Sales.
+- Sales started trending down on 2014, falling by 67.32% (46,131.09) in 3 years.
 - Furniture had 42,886.78 Sales, Office Supplies had 37,007.28, and Technology had 36,998.25.
-
-- 
-
-
-
 
 
